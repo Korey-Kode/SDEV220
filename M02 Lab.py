@@ -1,5 +1,6 @@
 #Name: Korey Hawkins
 #Date: 8/31/23
+#Academics Honor Roll/Dean's List Checker
 #This program decides whether the student has made Dean's list
 #or Honor Roll.
 
